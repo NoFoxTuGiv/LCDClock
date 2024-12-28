@@ -1,3 +1,11 @@
+/**********************************************************************************
+ * LCD Clock Arduino Project
+ * Author: NoFoxTuGiv
+ * Description: Displays the current time on a 16x2 LCD using a DS1307 RTC module.
+ * Date: 12-28-2024
+ * License: MIT
+ **********************************************************************************/
+
 #include <Arduino.h>
 #include <LiquidCrystal.h>
 #include <RTClib.h>
